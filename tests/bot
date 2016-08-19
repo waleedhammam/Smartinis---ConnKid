@@ -1,0 +1,17 @@
+import mraa
+import sys
+
+pot = mraa.Aio(0)   
+sample = 0
+last = 0
+t =512
+th=512
+ibi =600   
+while 1:
+    potVal = float(pot.read())
+    sample +=2
+    n=sample -last
+    if potval < 512 and n > (ibi/5)*3 :
+       if bot < t
+           
+    
