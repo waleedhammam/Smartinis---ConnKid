@@ -1,4 +1,10 @@
-# Smartinis---ConnKid
-A web server using flask on intel Edison kit takes readings from its sensors and sends it to an android application
-sensors are Gps , heart pulse sensor , body temperature sensor , speaker 
-all code in Separate file and also in web sever code 
+### ConnKid
+A monitoring kit for children to monitor them (Location, temperature, heart rate, ...) and keeping them safe.
+Using Intel Edison Kit, Flask Webserver, Android Application.
+
+## Hardware
+Intel Edison Kit with required sensors
+
+## Software
+###### Python with flask
+###### Android with Java
